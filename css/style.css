@@ -22,3 +22,13 @@
   background-color: #08682d;
   color: white;
 }
+
+footer div {
+  height: 200px;
+  color: #D9DBE1;
+}
+
+footer a img {
+  width: 140px;
+  height: 35px;
+}
