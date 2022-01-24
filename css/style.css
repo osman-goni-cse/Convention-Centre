@@ -43,6 +43,7 @@
 
 .hot-package {
   background-color: #08682d;
+  border-radius: 20px;
 }
 
 .hot-package ul li {
