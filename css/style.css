@@ -6,6 +6,10 @@
 .our-package {
   margin-top: 50px;
 }
+
+.our-package .col {
+  margin-bottom: 70px;
+}
 .our-package .container {
   margin-top: 200px;
 }
