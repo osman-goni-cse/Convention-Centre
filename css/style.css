@@ -21,6 +21,15 @@
   font-weight: bold;
 }
 /* Package CSS */
+
+.my-toast {
+  margin-left: 110px;
+}
+
+.my-toast span {
+  color: black;
+}
+
 .our-package {
   margin-top: 50px;
 }
