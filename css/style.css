@@ -1,8 +1,26 @@
 
+.navbar div a span{
+  font-weight: bold;
+  color: #3E3E3E;
+}
+
 .banner img {
   height: 520px;
 }
 
+.carousel-caption {
+  color: rgb(255, 255, 255);
+}
+.carousel-caption button a,
+.custom-button-design{
+  text-decoration: none;
+  background-color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: rgb(226, 56, 26);
+  font-weight: bold;
+}
+/* Package CSS */
 .our-package {
   margin-top: 50px;
 }
