@@ -23,6 +23,15 @@
   color: white;
 }
 
+/* Bonus CSS */
+.card .description span {
+  background-color: rgb(238, 64, 33);
+  padding: 5px 20px;
+  color: white;
+  border-radius: 5px;
+
+}
+
 footer div {
   height: 200px;
   color: #D9DBE1;
