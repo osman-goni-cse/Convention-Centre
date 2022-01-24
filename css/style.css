@@ -2,3 +2,19 @@
 .banner img {
   height: 520px;
 }
+
+.our-package {
+  margin-top: 50px;
+}
+.our-package .container {
+  margin-top: 200px;
+}
+
+.hot-package {
+  background-color: #08682d;
+}
+
+.hot-package ul li {
+  background-color: #08682d;
+  color: white;
+}
